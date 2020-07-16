@@ -1,0 +1,44 @@
+Data Types in JavaScript:
+
+1.strings: A string (or a text string) is a series of characters like "John Doe".
+           Strings are written with quotes. You can use single or double quotes.
+           You can use quotes inside a string, as long as they don't match the quotes surrounding the string.
+Ex: var str = "Hi, I am a robot";
+
+
+2.Numbers: JavaScript has only one type of numbers.
+           Numbers can be written with, or without decimals.
+Ex: var a = 100;
+
+
+3.Booleans: Booleans can only have two values: true or false.
+            Booleans are often used in conditional testing.
+Ex: var x = 5;
+    var y = 5;
+    var z = 6;
+    (x == y)       // Returns true
+    (x == z)       // Returns false
+
+
+4.Arrays: JavaScript arrays are written with square brackets.
+          Array items are separated by commas.
+          Array indexes are zero-based, which means the first item is [0], second is [1], and so on.
+Ex: var colors = ["Black","White","Blue"];
+
+
+5.Objects: JavaScript objects are written with curly braces {}.
+           Object properties are written as name:value pairs, separated by commas.
+Ex: var person = {name: "Bhagi", age: 20, hobby:"Coding"};
+
+
+
+
+
+
+
+
+
+
+
+
+
